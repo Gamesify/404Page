@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+*{
+    font-family: 'poppins',sans-serif;
+}
+body{
+    /* overflow: hidden; */
+}
+h1{
+    font-size: 200px;
+}
+h5{
+    font-size: 20px;
+}
+section{
+    display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	width: 100%;
+}
+
+.backbtn{
+    margin-left: 50px;
+    margin-top: 50;
+}
+
+.backbtn img{
+    height: 50px;
+    width: 50px;
+}
